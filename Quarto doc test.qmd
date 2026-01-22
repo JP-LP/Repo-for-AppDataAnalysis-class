@@ -49,14 +49,17 @@ log(x)
 ```
 
 # Add figure
+This adds a figure in a quite big size
 
 ```{r}
+
 #| out-width: "90%"
-knitr::include_graphics("https://utexas.instructure.com/courses/1438384/files/folder/Course%20Media?preview=89344161")
+knitr::include_graphics("https://www.aquariumdomain.com/images/speciesProfiles/IndigoHamlet_cover.jpg")
 ```
 
 ```{r}
+#This adds a figure in a scaled
 #| echo: false
 #| out-width: "4in"
-knitr::include_graphics("https://utexas.instructure.com/courses/1438384/files/folder/Course%20Media?preview=89344161")
+knitr::include_graphics("https://www.aquariumdomain.com/images/speciesProfiles/IndigoHamlet_cover.jpg")
 ```
