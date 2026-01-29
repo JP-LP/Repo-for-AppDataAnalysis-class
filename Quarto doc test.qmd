@@ -1,5 +1,5 @@
 ---
-title: "Rendering a Quarto document for first time"
+title: "notes"
 format: html
 editor: visual
 ---
