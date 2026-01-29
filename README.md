@@ -1,10 +1,7 @@
-# Repo-for-AppDataAnalysis-class
+# Updating exercise 02a
 
-## Starting a ReadMe file for class
-This is  the first version of a commit
+## Content
+This repository contains a quarto documentc calles `notes` containing the requirements to fulfill exercise2.
 
-> This are some edits made on the first branch og the "main" Readme file.
+> Apologies for the delayed submission.
 
-Now we are updating this "README" from Rstudio.
-
-#Adding a nother item to this Readme file
